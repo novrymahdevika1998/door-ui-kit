@@ -1,0 +1,19 @@
+{
+  "$schema": "https://shadcn-vue.com/schema/registry.json",
+  "name": "door-ui-kit",
+  "homepage": "https://www.neuronworks.co.id/ ",
+  "items": [
+    {
+      "name": "subscribe-card",
+      "type": "registry:ui",
+      "title": "Subscription Card",
+      "description": "A subscription card component for displaying subscription plans.",
+      "files": [
+        {
+          "path": "src/registry/default/blocks/subscribe-card.vue",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}
